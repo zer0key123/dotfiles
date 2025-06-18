@@ -18,3 +18,4 @@ winget install --id Valve.Steam
 winget install --id JAMSoftware.TreeSize.Free
 winget install --id Unity.UnityHub
 winget install --id BillStewart.SyncthingWindowsSetup
+winget install --id Spotify.Spotify
