@@ -19,3 +19,5 @@ winget install --id JAMSoftware.TreeSize.Free
 winget install --id Unity.UnityHub
 winget install --id BillStewart.SyncthingWindowsSetup
 winget install --id Spotify.Spotify
+winget install --id VideoLAN.VLC
+winget install --id JannisX11.Blockbench

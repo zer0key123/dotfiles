@@ -1,1 +1,22 @@
+these are probably doable with the scripts but ill add them later
 https://github.com/MarcGuiselin/wedge/releases/latest/download/installer.exe
+https://github.com/MustardChef/WSABuilds - also wsl setup automatically
+https://vencord.dev/download/
+https://github.com/Suwayomi/Suwayomi-Server
+https://pepakura.tamasoft.co.jp/pepakura_designer/index.html -- buy license
+https://getwacup.com/
+for sublime text/merge - maybe use sublime self patcher or buy
+https://www.mediafire.com/file/z1w91t5keytvq3r/ninjaripper1.7.1_with_new_script.7z
+maybe PyCharm/others? they probably have community chocolatey/winget installations available tho
+hevc support and office from massgrave.dev
+shellexview(and or set it up to remove all unnecessary ones via registry)
+keyman IPA keyboard(as well as disabling their keyboard switcher b/c its buggy)
+quick share/winpinator
+android studio? maybe?
+powertoys command palette plugins
+remove paywalls clean and oldtwitter auto installations for firefox(the rest probably will get synced by itself)
+
+games:
+augmented steam and steamdb plugins for millennium
+prismlauncher
+emudeck
