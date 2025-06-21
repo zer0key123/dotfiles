@@ -1,0 +1,1 @@
+betterzip <-> WinRAR/7zip equivalent(can navigate archive without extracting all)
