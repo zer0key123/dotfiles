@@ -7,8 +7,9 @@ choco install blender -y
 choco install calibre -y
 choco install discord -y
 choco install firefox-dev --pre -y
-choco install everythingpowertoys -y
 choco install goggalaxy -y
+choco install gsudo -y
+choco install everythingpowertoys -y
 choco install hugo-extended -y
 choco install kdeconnect-kde -y
 choco install make -y
@@ -21,3 +22,4 @@ choco install sharex -y
 choco install telegram -y
 choco install zotero -y
 choco install paint.net -y
+choco install pnpm -y

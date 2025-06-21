@@ -1,10 +1,8 @@
 these are probably doable with the scripts but ill add them later
-https://github.com/MarcGuiselin/wedge/releases/latest/download/installer.exe
 https://github.com/MustardChef/WSABuilds - also wsl setup automatically
-https://vencord.dev/download/
 https://github.com/Suwayomi/Suwayomi-Server
 https://pepakura.tamasoft.co.jp/pepakura_designer/index.html -- buy license
-https://getwacup.com/
+https://getwacup.com/ - could also just install foobar2000
 for sublime text/merge - maybe use sublime self patcher or buy
 https://www.mediafire.com/file/z1w91t5keytvq3r/ninjaripper1.7.1_with_new_script.7z
 maybe PyCharm/others? they probably have community chocolatey/winget installations available tho
@@ -20,3 +18,4 @@ games:
 augmented steam and steamdb plugins for millennium
 prismlauncher
 emudeck
+dxvk?

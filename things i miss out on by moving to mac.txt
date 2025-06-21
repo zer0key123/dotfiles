@@ -1,1 +1,5 @@
 betterzip <-> WinRAR/7zip equivalent(can navigate archive without extracting all)
+good window management - https://docs.google.com/spreadsheets/d/1JqyglRJXzxaj8OcQw9jHabxFUdsv9iWJXMPXcL7On0M/edit?gid=456166567#gid=456166567 (bentobox or yabai)
+paint.net alternatives - krita but its buggy apparently, otherwise nothing or go for more advanced(photoshop), or suffer(gimp)
+sharex alternatives - shottr i guess, puush? if its still updated? neither of them have all the features i would want
+rainmeter - macos has widgets but theyre ugly, geektool is much less developed/supported
