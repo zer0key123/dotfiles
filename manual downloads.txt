@@ -1,4 +1,10 @@
 these are probably doable with the scripts but ill add them later
+
+set up UniGetUI import
+
+
+glazewm? if i want to be a fake linux user
+zen browser
 https://github.com/MustardChef/WSABuilds - also wsl setup automatically
 https://github.com/Suwayomi/Suwayomi-Server
 https://pepakura.tamasoft.co.jp/pepakura_designer/index.html -- buy license
@@ -13,6 +19,9 @@ quick share/winpinator
 android studio? maybe?
 powertoys command palette plugins
 remove paywalls clean and oldtwitter auto installations for firefox(the rest probably will get synced by itself)
+paperless potentially? for all the other files i have?
+nas??
+dxvk or dgvoodoo2 for games
 
 games:
 augmented steam and steamdb plugins for millennium
