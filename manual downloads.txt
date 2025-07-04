@@ -3,6 +3,11 @@ these are probably doable with the scripts but ill add them later
 set up UniGetUI import
 
 
+https://forum.sublimetext.com/t/installing-packages-from-the-command-line/64029/4
+tl;dr: 
+    Installing PC from command line: subl --command "install_package_control"
+    Installing packages from command line subl --command "advanced_install_package {\"packages\": \"LSP,LSP-pyright\"}"
+
 glazewm? if i want to be a fake linux user
 zen browser
 https://github.com/MustardChef/WSABuilds - also wsl setup automatically
@@ -14,7 +19,7 @@ https://www.mediafire.com/file/z1w91t5keytvq3r/ninjaripper1.7.1_with_new_script.
 maybe PyCharm/others? they probably have community chocolatey/winget installations available tho
 hevc support and office from massgrave.dev
 shellexview(and or set it up to remove all unnecessary ones via registry)
-keyman IPA keyboard(as well as disabling their keyboard switcher b/c its buggy)
+keyman IPA keyboard(as well as disabling their keyboard switcher b/c its buggy) https://downloads.keyman.com/windows/stable/18.0.238/keyman-setup.sil_ipa.exe
 quick share/winpinator
 android studio? maybe?
 powertoys command palette plugins

@@ -1,0 +1,2 @@
+subl --command "install-package-manager"
+subl --command "advanced_install_package {\"packages\": \"LSP,LSP-pyright,LSP-ruff,LSP-PowerShellEditorServices,A File Icon,ayu,Emmet,Conda,PowerShell,SublimeREPL\"}"
